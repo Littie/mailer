@@ -44,12 +44,7 @@
                     <span class="glyphicon glyphicon-log-in form-control-feedback"></span>
                 </div>
                 <div class="row">
-                    <div class="col-xs-6 pull-right">
-                        <div class="form-group">
-                            <button type="button" class="btn btn-block btn-flat" data-toggle="modal" data-target="#termsModal">{{ trans('adminlte_lang::message.terms') }}</button>
-                        </div>
-                    </div><!-- /.col -->
-                    <div class="col-xs-4 col-xs-push-1">
+                    <div class="col-xs-4 pull-right">
                         <button type="submit" class="btn btn-primary btn-block btn-flat">{{ trans('adminlte_lang::message.register') }}</button>
                     </div><!-- /.col -->
                 </div>
