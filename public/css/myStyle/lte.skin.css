@@ -1,0 +1,18 @@
+.sidebar-menu {
+    margin-top: 60px;
+}
+
+.skin-blue .sidebar-menu > li.header {
+    text-align: center;
+    color: #ffffff;
+    font-size: 19px;
+    background: #323a3e;
+}
+
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background: #4b565b;
+}
+
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a {
+    background: #323a3e;
+}
